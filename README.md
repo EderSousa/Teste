@@ -1,1 +1,3 @@
-Teste de criaçao para projeto js pro de readme.
+Teste de criaçao para projeto js pro.
+Versão 1.0
+
